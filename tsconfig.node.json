@@ -8,4 +8,4 @@
     "include": [
       "vite.config.ts" // Especifica quais arquivos devem ser incluídos no processo de compilação. 
     ]
-  }
+}
